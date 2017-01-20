@@ -37,7 +37,6 @@ export default class AuthService {
    * @returns {*|Promise.<TResult>}
    */
   authenticate(credentials: Object) {
-    console.log(this.config.API_URL);
     return this.$http
       .post(`${this.config.API_URL}auth/getToken`, credentials)
       .then(
