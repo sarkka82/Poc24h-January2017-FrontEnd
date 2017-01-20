@@ -82,7 +82,7 @@ module.exports = function (options) {
   let constants;
 
   try {
-    constants = require('././config/config.json');
+    constants = require('../src/config/config.json');
   } catch (error) {
     constants = {
       "API_URL": process.env.API_URL || "http://localhost/",
