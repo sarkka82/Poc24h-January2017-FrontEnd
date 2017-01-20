@@ -1,4 +1,4 @@
-# Modern app seed for legacy Angular apps (1.x) 
+# 24h POC
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](LICENSE)
 [![GitHub version](https://badge.fury.io/gh/tarlepp%2Fangular-material-webpack-seed.svg)](https://badge.fury.io/gh/tarlepp%2Fangular-material-webpack-seed)
@@ -33,7 +33,24 @@ Table of Contents
 ---
 
 # What is this
-Modern seed for "legacy" Angular (1.x) applications. With seed this you can use [ES2015](https://babeljs.io/docs/learn-es2015/) to write your frontend application.
+This is POC made in 24h hours for customer.
+
+## Backlog
+- [ ] As customer *i want to search nearest good workshop* for my car. *Workshop should fix my car brand*. This because my car
+seems to be broken (strange noise eg.).
+- [ ] *As user i want to see local workshops as list.* List should be filtered for my car brand. I want to see most important basic information
+of workshops.
+- [ ] *As user i want to see further information of selected workshop*. For example address, phone number and location.
+- [ ] *As user i want to use 'contact me' form where i can request further information*. For example when i can bring my car.
+- [ ] *As user i want to see any offers local workshops has for me*.
+- [ ] As user i can buy selected offer.
+
+## Other requirements
+- [ ] Application is used on browser.
+- [ ] Application is designed mostly for tablet and phone.
+- [ ] Application is designed mostly for tablet and phone.
+- [ ] Use commonly used OS technologies.
+- [ ] Product owner can enter new data for demo purposes.
 
 ## Includes following
 * [webpack](http://webpack.github.io) (modules, assets bundling)
