@@ -7,10 +7,11 @@
 
 Table of Contents
 =================
-  * [Modern app seed for legacy Angular apps (1.x)](#modern-app-seed-for-legacy-angular-apps-1x)
   * [Table of Contents](#table-of-contents)
   * [What is this](#what-is-this)
+    * [Backlog](#backlog)
     * [Includes following](#includes-following)
+    * [Other requirements](#other-requirements)
     * [Application specified stuff](#application-specified-stuff)
   * [Installation, configure and usage](#installation-configure-and-usage)
     * [Preconditions](#preconditions)
@@ -47,7 +48,6 @@ of workshops.
 
 ## Other requirements
 - [ ] Application is used on browser.
-- [ ] Application is designed mostly for tablet and phone.
 - [ ] Application is designed mostly for tablet and phone.
 - [ ] Use commonly used OS technologies.
 - [ ] Product owner can enter new data for demo purposes.
