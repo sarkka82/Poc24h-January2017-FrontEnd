@@ -34,7 +34,7 @@ Table of Contents
 ---
 
 # What is this
-This is POC made in 24h hours for customer.
+This is the output of our first PocDay! (PocDay is a product of Protacon Solutions Ltd. where we make a Proof of Concept [or such] for our customer for fixed price within 24 hours.) The output is a POC of a mobile interface where the user can search for specific services.
 
 ## Backlog
 - [ ] As customer *i want to search nearest good workshop* for my car. *Workshop should fix my car brand*. This because my car
